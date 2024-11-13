@@ -3,6 +3,11 @@ Odin Recipes
 
 READ ME
 
+* UPDATE 11/13/24
+Completed the Assigment, created the pages, added them to staging, committed to git with message.  Now waiting for the process to finish and become avaialble for viewing.  The local view and links work correctly.
+
+Ready to continue on once I verify the upload to GIT is complete.
+
 * UPDATE 11/12/2024
 To get to this point I needed to re-cover all of the initial configuration steps.
  - Update the Linux Ubuntu OS
