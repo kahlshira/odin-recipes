@@ -3,6 +3,9 @@ Odin Recipes
 
 READ ME
 
+* UPDATE 11/18/24
+Completed CSS Assigment.  Created CSS file, linked to pages, updated pages to reference CSS.
+
 * UPDATE 11/13/24
 Completed the Assigment, created the pages, added them to staging, committed to git with message.  Now waiting for the process to finish and become avaialble for viewing.  The local view and links work correctly.
 
