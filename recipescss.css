@@ -1,0 +1,28 @@
+/* CSS code for Odin-Recipes */
+
+.pageTitle {
+    text-align:center;
+}
+
+.recipeName {
+    font-weight:bold;
+    font-size:large;
+}
+
+.recipeIngredients, .recipeDirections {
+    font-weight:bold;
+    font-size:large;
+}
+
+.recipeSteps {
+    font-style:italic;
+    font-weight: bold;
+}
+
+.recipeImage {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:200px;
+    height:200px;
+}
